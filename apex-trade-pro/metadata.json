@@ -1,0 +1,6 @@
+{
+  "name": "Apex Trade - Pro Trading & Portfolio Platform",
+  "description": "Production-grade responsive fintech trading platform with real-time charts, simulated execution, deposits, withdrawals, cold storage, signals, and multi-asset portfolio analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
